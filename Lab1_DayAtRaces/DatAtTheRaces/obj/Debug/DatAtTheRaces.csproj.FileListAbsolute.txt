@@ -1,0 +1,8 @@
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\bin\Debug\DatAtTheRaces.exe
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\bin\Debug\DatAtTheRaces.pdb
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.csprojResolveAssemblyReference.cache
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.Form1.resources
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.Properties.Resources.resources
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.csproj.GenerateResource.Cache
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.exe
+c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.pdb
