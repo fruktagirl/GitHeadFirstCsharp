@@ -6,3 +6,11 @@ c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRace
 c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.csproj.GenerateResource.Cache
 c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.exe
 c:\users\emesev\documents\visual studio 2015\Projects\DatAtTheRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.pdb
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.exe
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.pdb
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\bin\Debug\DatAtTheRaces.exe
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\bin\Debug\DatAtTheRaces.pdb
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.csprojResolveAssemblyReference.cache
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.Form1.resources
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.Properties.Resources.resources
+D:\GitHeadFirstC#\Lab1_DayAtRaces\DatAtTheRaces\obj\Debug\DatAtTheRaces.csproj.GenerateResource.Cache
