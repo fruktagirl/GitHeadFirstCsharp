@@ -1,0 +1,8 @@
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csprojResolveAssemblyReference.cache
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.Cache
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+D:\GitHeadFirstC#\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
