@@ -1,0 +1,8 @@
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\GitHeadFirstDirectory\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
